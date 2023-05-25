@@ -1,0 +1,36 @@
+
+  @media (max-width: 300px) {
+    .custom-responsive {
+      padding: 2px;
+      margin-bottom: 1px;
+    }
+  }
+
+  @media (min-width: 301px) and (max-width: 800px) {
+    .custom-responsive {
+      padding: 3px;
+      margin-bottom: 2px;
+    }
+  }
+  .responsive-input {
+    width: 466px;
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 800px) {
+    .responsive-input {
+        width: 465px;
+      }
+  }
+  @media (max-width: 500px) {
+    .responsive-input {
+        width: 320px;
+      }
+  }
+
+  
+  
+
+
+ 
+
